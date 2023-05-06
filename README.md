@@ -1,0 +1,2 @@
+# splitwise
+splitwise type application
